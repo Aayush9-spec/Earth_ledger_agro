@@ -16,7 +16,7 @@ It helps farmers calculate carbon credits, track projects, access marketplaces, 
 - **Notifications**: [Sonner](https://sonner.emilkowal.ski/) + custom [Radix Toasts](https://www.radix-ui.com/primitives/docs/components/toast)
 - **Routing**: [React Router DOM](https://reactrouter.com/)
 - **Linting**: [ESLint](https://eslint.org/)
-- **Hosting**: [Lovable](https://lovable.dev/) (default) or Vercel/Netlify
+- **Hosting**: Vercel/Netlify
 
 ---
 
